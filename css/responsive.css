@@ -1,0 +1,181 @@
+@media(max-width:1400px){
+    .our-company-image img {
+        max-width: 100%;
+    }
+}
+@media (max-width:1200px){
+    .our-company-image img {
+        max-width: 100%;
+    }
+    .finix-text img {
+        max-width: 100%;
+    }
+    .services-tab-content img {
+        max-width: 100%;
+    }
+}
+@media (max-width:992px){
+    .finix-text img {
+        max-width: 100%;
+    }
+}
+@media (max-width:568px){
+    .slider-content h1 {
+        font-size: 25px;
+        padding: 6px 0;
+    }
+    .slider-content p {
+        font-size: 14px;
+        padding-bottom: 13px;
+    }
+    .slider-content-wrap {
+        height: 30vh;
+    }
+    .choose-us-text img {
+        max-width: 100%;
+    }
+    .apply-now-header p {
+        width: 100%;
+    }
+    .calculate-rate-right {
+        padding: 30px;
+        margin-top: 30px;
+    }
+    .wh-action-section h2 {
+        font-size: 30px;
+    }
+    .action-section-phone {
+        margin-left: 10px;
+    }
+    .action-section-phone span {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        font-size: 25px;
+    }
+    .action-section-phone a {
+        font-size: 28px;
+    }
+    .service-finix p {
+        width: 100%;
+        margin: auto;
+    }
+    .services-tab-content img {
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+    .blog-thumbnail {
+        text-align: center;
+    }
+    .blog-content {
+        margin-left: 53px;
+    }
+    .footer-widget h4 {
+        text-align: center;
+    }
+    .footer-widget ul {
+        padding-left: 0;
+        text-align: center;
+    }
+    .footer-widget {
+        text-align: center;
+    }
+}
+
+
+@media (max-width:350px){
+    .slider-content h1 {
+        font-size: 34px;
+        padding: 10px 0;
+    }
+    .slider-content-wrap {
+        height: 40vh;
+    }
+    .client-logo img {
+        max-width: 100%;
+    }
+    .about-img img {
+        max-width: 100%;
+    }
+    .header-social ul li span {
+        font-size: 15px;
+    }
+    .header-social ul li::before {
+        left: 75px;
+    }
+    .about-img-text h2 {
+    font-size: 40px;
+    }
+    .about-img-text {
+        right: 18px;
+        bottom: -96px;
+    }
+    .finix-text {
+        margin-top: 100px;
+    }
+    
+    .choose-us-text img {
+        max-width: 100%;
+    }
+    .apply-now-header p {
+        width: 100%;
+    }
+    .step-timeline ul::before {
+        content: "";
+        position: absolute;
+        left: 14px;
+        height: calc(100% - 100px);
+    }
+    .step-timeline ul {
+        position: relative;
+        padding-left: 80px;
+    }
+    .calculate-rate-right {
+        padding: 30px;
+        margin-top: 25px;
+    }
+    .wh-action-section h2 {
+        font-size: 22px;
+    }
+    .action-section-phone a {
+        font-size: 18px;
+    }
+    .action-section-phone span {
+        font-size: 20px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .our-company-image img {
+        margin-top: 20px;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .service-finix p {
+        width: 100%;
+        margin: auto;
+    }
+
+    .services-tab-content img {
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .testimonial-content p {
+        font-size: 16px;
+    }
+    .testemonial-img img {
+        max-width: 100%;
+        margin-top: 30px;
+    }
+    .footer-widget {
+        text-align: center;
+    }
+    .footer-widget ul {
+        padding-left: 0;
+    }
+    .footer-bottom p {
+        font-size: 12px;
+    }
+   
+}
